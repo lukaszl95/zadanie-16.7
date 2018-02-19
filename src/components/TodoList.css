@@ -1,0 +1,20 @@
+.TodoList {
+	font-family: Calibri;
+    box-shadow: 0px 0px 5px black;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    padding: 0;
+    list-style: none;
+    margin: 15px 0;
+}
+.TodoList > li {
+	border-bottom: 1px solid black;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 100px;
+    align-items: center;
+	position: relative;
+    min-height: 20px;
+}

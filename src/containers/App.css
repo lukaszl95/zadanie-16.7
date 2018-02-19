@@ -1,0 +1,14 @@
+.TodoApp {
+    background-image: url(http://s3.egospodarka.pl/grafika2/identyfikacja-biometryczna/Dane-biometryczne-pracownika-dostepne-tylko-wyjatkowo-121564-900x900.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+}
